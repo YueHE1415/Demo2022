@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Demo2021110</string>
+    <string-array name="item">
+        <item>食品</item>
+        <item>生活用品</item>
+        <item>通行</item>
+        <item>娛樂</item>
+        <item>其他</item>
+    </string-array>
+
+    <string-array name="month">
+        <item>01</item>
+        <item>02</item>
+        <item>03</item>
+        <item>04</item>
+        <item>05</item>
+        <item>06</item>
+        <item>07</item>
+        <item>08</item>
+        <item>09</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+
+    <string-array name="awdmonth">
+        <item></item>
+        <item>01-02</item>
+        <item>03-04</item>
+        <item>05-06</item>
+        <item>07-08</item>
+        <item>09-10</item>
+        <item>11-12</item>
+    </string-array>
+</resources>

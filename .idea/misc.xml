@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/syueh/Demo2021110/app/src/main/res/layout/activity_accckpage.xml" value="0.2708333333333333" />
+        <entry key="..\:/Users/syueh/Demo2021110/app/src/main/res/layout/activity_accinsqrpage.xml" value="0.2554347826086957" />
+        <entry key="..\:/Users/syueh/Demo2021110/app/src/main/res/layout/activity_accinsqrpage2.xml" value="0.2554347826086957" />
+        <entry key="..\:/Users/syueh/Demo2021110/app/src/main/res/layout/activity_accpage.xml" value="0.27395833333333336" />
+        <entry key="..\:/Users/syueh/Demo2021110/app/src/main/res/layout/activity_anackpage.xml" value="0.26358695652173914" />
+        <entry key="..\:/Users/syueh/Demo2021110/app/src/main/res/layout/activity_anapage.xml" value="0.25" />
+        <entry key="..\:/Users/syueh/Demo2021110/app/src/main/res/layout/activity_awdckpage.xml" value="0.2554347826086957" />
+        <entry key="..\:/Users/syueh/Demo2021110/app/src/main/res/layout/activity_awdpage.xml" value="0.2595108695652174" />
+        <entry key="..\:/Users/syueh/Demo2021110/app/src/main/res/layout/activity_bokkindpage.xml" value="0.27395833333333336" />
+        <entry key="..\:/Users/syueh/Demo2021110/app/src/main/res/layout/activity_bokpage.xml" value="0.27395833333333336" />
+        <entry key="..\:/Users/syueh/Demo2021110/app/src/main/res/layout/activity_insacc.xml" value="0.27395833333333336" />
+        <entry key="..\:/Users/syueh/Demo2021110/app/src/main/res/layout/activity_insaccqrcodepage.xml" value="0.2554347826086957" />
+        <entry key="..\:/Users/syueh/Demo2021110/app/src/main/res/layout/activity_insbokpage.xml" value="0.27395833333333336" />
+        <entry key="..\:/Users/syueh/Demo2021110/app/src/main/res/layout/activity_main.xml" value="0.27395833333333336" />
+        <entry key="..\:/Users/syueh/Demo2021110/app/src/main/res/layout/activity_mainpage.xml" value="0.27395833333333336" />
+        <entry key="..\:/Users/syueh/Demo2021110/app/src/main/res/layout/activity_nspage.xml" value="0.27395833333333336" />
+        <entry key="..\:/Users/syueh/Demo2021110/app/src/main/res/layout/layout.xml" value="0.259375" />
+        <entry key="..\:/Users/syueh/Demo2021110/app/src/main/res/layout/layout2.xml" value="0.259375" />
+        <entry key="..\:/Users/syueh/Demo2021110/app/src/main/res/layout/layout3.xml" value="0.259375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
